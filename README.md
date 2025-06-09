@@ -1,10 +1,10 @@
-# Chapter-3-Evaluation-Metrics
+# Chapter 3 - Evaluation Metrics
 
 This project contains my hands-on implementation of binary classification evaluation techniques from **Chapter 3** of the book:
 *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* 
 by Aurelien Geron (3rd Edition)
 
-##Techniques Covered
+## Techniques Covered
 - Precision, Recall, and F1 Score
 - Decision Threshold Tuning
 - Precision/Recall Curve
